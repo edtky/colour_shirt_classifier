@@ -8,6 +8,9 @@ It turns out that most pre-trained CNNs don't have very good color-sensitive fil
 
 To detect shirts of a specific color, we may need to break the problem down into 2 tasks: color recognition then object recognition.
 
+![Happy Examples](https://github.com/edtky/colour_shirt_classifier/blob/master/Results1.png)
+![Sad Examples](https://github.com/edtky/colour_shirt_classifier/blob/master/Results2.png)
+
 
 # Steps to train a custom classifier using ImageAI:
 
